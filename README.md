@@ -1,4 +1,4 @@
-# Blood-Test-Analyzer-Engine :syringe: :tool:
+# Blood-Test-Analyzer-Engine :hospital:
 
 Backend Engine used to process images of blood-tests and return measurements in a digital format.
 Uses the Google Cloud Text Recognition API and creates an Express Server using Node.js.
